@@ -1,3 +1,1 @@
-"# BasicPandas" 
-"# MiniProjectNumpy" 
-"# offline-AI-Voice-Assistance" 
+ "# offline-AI-Voice-Assistance" 
